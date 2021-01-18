@@ -1,4 +1,4 @@
-Se accede desde la url:
+Available on URL:
 
 https://frasesenbreakingbad.netlify.app
 
